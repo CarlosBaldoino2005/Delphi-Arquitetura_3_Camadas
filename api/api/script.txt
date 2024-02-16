@@ -1,0 +1,5 @@
+CREATE TABLE Funcionarios (
+    id      INTEGER      PRIMARY KEY AUTOINCREMENT,
+    nome    STRING (100),
+    salario REAL (10, 2) 
+);
